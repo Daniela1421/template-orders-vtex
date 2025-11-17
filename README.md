@@ -62,7 +62,7 @@ npm run dev
 
 El proyecto fue desplegado en **Vercel**.
 
-🔗 **Demo en producción:** _[[orders](https://template-orders-vtex.vercel.app/)]_  
+🔗 **Demo en producción:**  _[orders_template](https://template-orders-vtex.vercel.app/)_   
 
 ## ✨ Autor
 
